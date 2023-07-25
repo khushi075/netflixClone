@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This is a a clone of Netflix website where you can sign-in and add movies to favourites list.
+
 ## Getting Started
 
 First, run the development server:
